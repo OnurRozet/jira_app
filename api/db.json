@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Jira App uygulaması yapılacak",
+      "desc": "İlgili componentler hazırlanacak",
+      "id": 1
+    },
+    {
+      "title": "Jira App uygulaması hazırlanacak",
+      "desc": "Props geçişleri yapılacak",
+      "id": 2
+    },
+    {
+      "title": "Jira App uygulaması hazırlanacak",
+      "desc": "Silme ve düzenleme butonları aktif hale getirilecek",
+      "id": 3
+    },
+    {
+      "title": "Jira App uygulaması hazırlanacak",
+      "desc": "Proje kodları Github a atılacak",
+      "id": 4
+    },
+    {
+      "title": "Jira App uygulaması yapılacak",
+      "desc": "Readme sayfası eklenecek",
+      "id": 5
+    },
+    {
+      "title": "Onur",
+      "desc": "Rözet",
+      "id": 6
+    }
+  ]
+}

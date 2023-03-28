@@ -1,0 +1,91 @@
+.background{
+    background-image: url(images/cloud.jpg);
+    background-size: cover;
+    height: 100%;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}  
+.task-create{
+    text-align: center;
+    width: 350px;
+}
+.task-form{
+    display: flex;
+    flex-direction: column;
+}
+.label-title{
+    margin: 10px 0;
+}
+.task-text{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 1px solid green;
+
+}
+.text-input{
+    margin: 10px 0px;
+    border-radius: 10px;
+    border: 1px solid green;
+}
+.taskButton{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    font-size: larger;
+}
+.taskList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;  
+}
+.task-show{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+    border-radius: 30px;
+    text-align: center;
+   margin: 20px;
+   padding: 10px;
+   box-shadow: 5px 5px green;
+   
+}
+.task-show h3{
+    margin: 5px;
+}
+.task-edit{
+    width: 250px;
+}
+.taskEditButton{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid green;
+    background-color: blueviolet;
+    color: white;
+    font-size: larger;
+    margin-bottom: 5px;
+}
+.taskDelete{
+    padding: 5px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: red;
+    color: white;
+    border: 1px solid green;
+    margin-right: 10px;
+}
+.taskEdit{
+    padding: 5px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    margin-right: 10px;
+}
